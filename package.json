@@ -79,7 +79,7 @@
       "/node_modules/"
     ],
     "snapshotSerializers": [
-      "jest-preset-angular/build/AngularSnapshotSerializer.js",
+      "jest-preset-angular/build/serializers/ng-snapshot",
       "jest-preset-angular/build/HTMLCommentSerializer.js"
     ],
     "globals": {
