@@ -1,0 +1,1 @@
+We’ll build our UI following a Component-Driven Development (CDD) methodology. It’s a process that builds UIs from the “bottom up” starting with components and ending with screens. CDD helps you scale the amount of complexity you’re faced with as you build out the UI.
